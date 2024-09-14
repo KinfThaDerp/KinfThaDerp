@@ -1,6 +1,6 @@
 ## Derp 🐇
 Student licenses are cool
-Don't ask how I know...
+- Don't ask how I know...
 
 <!--
 **KinfThaDerp/KinfThaDerp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
